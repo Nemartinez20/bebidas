@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h2>desde react</h2>
+      <h2 className="text-teal-700 text-2xl">desde react</h2>
     </>
   );
 }
